@@ -14,11 +14,15 @@ https://github.com/AhmadSaleem27/node-project/assets/83878509/99caee92-9b50-4a02
 
 Serial Port Communication
  Communication in real time validating the signal alert triggering on the Virtual device via sertial communication protocol. Generating a signal in form of toggle alert of application in identified On/Off state during getting event generated during each event is processed in form of application standard from Server end to Client end device.
+
 https://github.com/AhmadSaleem27/node-project/assets/83878509/a34a6421-e6f7-450a-b75f-66cbf4049e25
 
 Testing:
  Rigorous unit testing of individual components to ensure functionality and reliability.
+
  Comprehensive integration testing to validate the interaction between the client, server, and embedded hardware.
- Thorough testing of various LED configurations and command inputs to verify robustness and stability. (LEDs are just a virtual created as embedded system). 
+
+ Thorough testing of various LED configurations and command inputs to verify robustness and stability. (LEDs are just a virtual created as embedded system).
+
 
 
