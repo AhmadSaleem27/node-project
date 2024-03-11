@@ -1,3 +1,5 @@
+INTRODUCTION: 
+
 With a solid foundation in embedded systems and Linux, I bring extensive experience to the table, ensuring the seamless integration of hardware and software
 components in your project. Having worked extensively on embedded platforms, I possess a deep understanding of microcontroller programming and system-level
 design, enabling me to develop efficient and reliable solutions tailored to your project's requirements. Moreover, my proficiency in Linux administration equips me with the
@@ -18,11 +20,12 @@ Serial Port Communication
 https://github.com/AhmadSaleem27/node-project/assets/83878509/a34a6421-e6f7-450a-b75f-66cbf4049e25
 
 Testing:
- Rigorous unit testing of individual components to ensure functionality and reliability.
 
- Comprehensive integration testing to validate the interaction between the client, server, and embedded hardware.
+1) Rigorous unit testing of individual components to ensure functionality and reliability.
 
- Thorough testing of various LED configurations and command inputs to verify robustness and stability. (LEDs are just a virtual created as embedded system).
+2) Comprehensive integration testing to validate the interaction between the client, server, and embedded hardware.
+
+3) Thorough testing of various LED configurations and command inputs to verify robustness and stability. (LEDs are just a virtual created as embedded system).
 
 
 
