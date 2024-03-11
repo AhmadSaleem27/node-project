@@ -12,7 +12,11 @@ performance.
 IOT Application Preview
 Each trigger gets updated in real time across all devices with the help of underlying technology called Websockets which is a bi-directional communication protocol. On click events the event trigger message would be sent to the other client IOT Devices whether it be a smart bulb or a smart fan. Not only would it turn on or off the device it’ll also synchronously update the state of the buttons across all other client members using the app for better and consistent communication among all devices.
 
-https://github.com/AhmadSaleem27/node-project/assets/83878509/99caee92-9b50-4a02-9862-1ba8e90c41d6
+
+
+https://github.com/AhmadSaleem27/node-project/assets/83878509/7ab4398d-a793-464d-8645-7b36fc0f7617
+
+
 
 Serial Port Communication
  Communication in real time validating the signal alert triggering on the Virtual device via sertial communication protocol. Generating a signal in form of toggle alert of application in identified On/Off state during getting event generated during each event is processed in form of application standard from Server end to Client end device.
