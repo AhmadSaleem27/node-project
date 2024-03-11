@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+<script src="/renderer.js"></script>
+<link rel="stylesheet" href="stylesheet.css">
+    <title>Electron IoT App</title>
+</head>
+<body>
+    <div class="image-container">
+        <div class="bulb" id="bulb1" onclick="toggleBulb(1)"></div>
+        <div class="bulb" id="bulb2" onclick="toggleBulb(2)"></div>
+        <div class="bulb" id="bulb3" onclick="toggleBulb(3)"></div>
+        <div class="bulb" id="bulb4" onclick="toggleBulb(4)"></div>
+</div>
+<button class="btn" onclick="toggleAllStates()">ON</button>
+</div>
+    <script src="/socket.io/socket.io.js"></script>
+   
+</body>
+</html>
